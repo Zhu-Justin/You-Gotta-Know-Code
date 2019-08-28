@@ -8,6 +8,7 @@ import sys
 
 # Complete the function below.
 def function(param1, param2):
+        ans = 0
 	return ans
 
 if __name__ == '__main__':

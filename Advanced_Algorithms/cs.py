@@ -1,0 +1,3 @@
+def python:
+    print
+d
